@@ -98,13 +98,13 @@ function drawLegend() {
   fill(255);
   textFont("Courier New");
   text("SPACE/Tap = Flap", tX, 20);
-  text("M        = Toggle dynamic-pipes", tX, 35)
-  text("UP/DOWN  = Slower / Faster", tX, 50);
+  text("M         = Toggle dynamic-pipes", tX, 35)
+  text("UP/DOWN   = Slower / Faster", tX, 50);
   text("----------------------------------", tX, 65);
-  text("T        = Toggle telemetry", tX, 80);
-  text("L        = Toggle legend", tX, 95);
-  text("P        = Pause game", tX, 110);
-  text("S        = Toggle sound", tX, 125);
+  text("T         = Toggle telemetry", tX, 80);
+  text("L         = Toggle legend", tX, 95);
+  text("P         = Pause game", tX, 110);
+  text("S         = Toggle sound", tX, 125);
   textFont("Helvetica");
 }
 
