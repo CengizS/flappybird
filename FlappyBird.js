@@ -1,6 +1,4 @@
 // Cengiz Sahin for http://www.sahinc.de, Copyleft 2017
-
-
 var bird;
 var pipes = [];
 var score = 0;
